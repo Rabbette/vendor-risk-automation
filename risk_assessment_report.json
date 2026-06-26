@@ -1,0 +1,20 @@
+{
+  "vendor_name": "PeopleFlow HR",
+  "assessment_date": "2026-06-27",
+  "evaluated_by": "Meridian Health - GRC Team",
+  "generated_at": "2026-06-26T20:56:35.286947",
+  "exception_count": 2,
+  "exceptions": [
+    {
+      "control": "Multi-Factor Authentication (MFA)",
+      "answer_given": "No",
+      "why_it_matters": "Without MFA, a single stolen password can fully compromise an account with access to employee data."
+    },
+    {
+      "control": "Incident Response Plan",
+      "answer_given": "No",
+      "why_it_matters": "Without a documented plan, a breach response will be improvised and slower, increasing damage and notification delays."
+    }
+  ],
+  "overall_result": "HIGH RISK EXCEPTIONS FOUND"
+}

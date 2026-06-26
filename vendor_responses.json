@@ -1,0 +1,23 @@
+{
+  "vendor_name": "PeopleFlow HR",
+  "assessment_date": "2026-06-27",
+  "evaluated_by": "Meridian Health - GRC Team",
+  "will_handle_phi": true,
+  "responses": {
+    "q1_mfa_supported": "No",
+    "q2_rbac_enforced": "Yes",
+    "q3_deactivation_time_hours": 24,
+    "q4_encryption_at_rest": "Yes",
+    "q5_encryption_in_transit": "Yes",
+    "q6_data_storage_region": "United States",
+    "q7_retention_policy_documented": "Yes",
+    "q8_incident_response_plan": "No",
+    "q9_breach_notification_hours": 72,
+    "q10_security_monitoring": "Yes",
+    "q11_soc2_certified": "Yes",
+    "q12_hipaa_compliant": "Yes",
+    "q13_named_security_owner": "Yes",
+    "q14_regular_backups": "Yes",
+    "q15_recovery_time_objective_hours": 8
+  }
+}
